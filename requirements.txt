@@ -1,0 +1,9 @@
+scikit-learn
+matplotlib
+tensorflow
+pandas
+numpy
+nltk
+transformers
+accelerate
+seaborn
